@@ -1,0 +1,10 @@
+{
+  "name": "fam-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python index.py"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
